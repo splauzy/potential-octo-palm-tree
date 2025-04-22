@@ -1,0 +1,32 @@
+.albums a{
+    color: gray;
+}
+
+.albums .card:hover{
+    outline: 2px solid #772d8b;
+}
+
+.list-group-item {
+    margin: 2px;
+}
+
+.list-group-item:hover{
+    outline: 4px solid #772d8b;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.col-desc{
+    height: 190px;
+}
+
+.img-albumsred {
+    max-width: 190px;
+}
+
+.progress {
+    border :1px solid ;
+    border-color: rgb(188, 188, 188);
+}
+
+

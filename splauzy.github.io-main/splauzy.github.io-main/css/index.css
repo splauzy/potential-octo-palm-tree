@@ -1,0 +1,50 @@
+
+.my-5 {
+    font-weight: 700;
+}
+
+.bi {
+    width: 30px;
+}
+
+
+
+.albums a{
+    color: gray;
+}
+
+.albums .card:hover{
+
+    outline: 5px solid #2236a5;
+   
+}
+
+.albums-redaction a{
+    color: gray;
+}
+
+.albums-redaction .card:hover{
+
+    outline: 5px solid #2236a5;
+   
+}
+
+.card{
+    flex-wrap: wrap;
+}
+
+.tag-inc{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    text-align: center;
+}
+
+.footer-site {
+    
+    margin-top: 30px;
+    background-color: #101f71;
+    margin-bottom: -15px;
+
+
+}
